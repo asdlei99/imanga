@@ -2,12 +2,27 @@
 *.slo
 *.lo
 *.o
+*.obj
+*.pdb
 
 # Compiled Dynamic libraries
 *.so
 *.dylib
+*.dll
 
 # Compiled Static libraries
 *.lai
 *.la
 *.a
+
+# Log Files
+*.tlog
+*.log
+
+# Other Files
+*.sdf
+*.suo
+*.user
+*.exe
+*.ilk
+
